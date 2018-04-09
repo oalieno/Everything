@@ -7,7 +7,7 @@ Watch the awesome video for explanation : [The 'Everything' Formula - Numberphil
 ## dependency
 
 * [PIL](http://pillow.readthedocs.io/en/5.1.x/)
-* [docopt](https://github.com/docopt/docopt
+* [docopt](https://github.com/docopt/docopt)
 
 ## Usage
 
